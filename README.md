@@ -14,6 +14,7 @@ This repository contains **daily notes, exercises, and reflections** starting fr
 ---
 
 ## 📂 Repository Structure
+<pre>
 my_js_journey/
 │
 ├── Day01/
@@ -27,6 +28,7 @@ my_js_journey/
 │   └── reflection.md
 │
 └── ...
+</pre>
 
 ---
 
